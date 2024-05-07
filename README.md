@@ -1,1 +1,7 @@
-# node_projects
+-  bcrypt：加密
+-  https://randomkeygen.com/ : 生成 key 作为 token 加密的 key
+- Schema.methods: 定义内置方法
+- 错误捕获
+- xss-clean
+- helmet
+- ratelimiter
